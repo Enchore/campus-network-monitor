@@ -1,0 +1,33 @@
+# Configuration file with sensitive data
+config.json
+
+# Runtime files
+.monitor.lock
+monitor.log
+
+# Debug files
+page_debug.png
+page_source.html
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini

@@ -1,5 +1,8 @@
 # 校园网自动监控与登录工具
 
+[![CI](https://github.com/Enchore/campus-network-monitor/actions/workflows/ci.yml/badge.svg)](https://github.com/Enchore/campus-network-monitor/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 一个基于 Python + Selenium 的校园网自动监控工具，支持断网自动检测和自动登录。
 
 ## 功能特点

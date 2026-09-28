@@ -1,0 +1,9 @@
+# campus-network-monitor 依赖清单
+#
+# 安装：pip install -r requirements.txt
+
+requests>=2.31.0
+selenium>=4.15.0
+
+# pywin32 用于开机自启动（写入启动目录快捷方式），仅 Windows 需要
+pywin32>=306; sys_platform == "win32"
